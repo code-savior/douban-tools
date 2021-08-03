@@ -32,7 +32,8 @@
 
 5. 等待console窗口打出<code>Filter done!!!</code>字样后，左侧表格中即替换为过滤中介后的信息
 
-![Image of Manual](https://github.com/code-savior/db-tools/blob/main/manual.gif)
+https://user-images.githubusercontent.com/88306149/127947615-a82e29bc-82a3-46a6-bd2d-6343025ffaa5.mp4
+
 
 # 注意
 
