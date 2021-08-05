@@ -68,6 +68,10 @@ const filterPageArticles = (articlesIndex, href) => {
           'table[class="olt"] tbody'
         );
         Array.prototype.forEach.call(filterArticles, function (node) {
+          var aNodes = node.querySelectorAll('td a');
+          Array.prototype.forEach.call(aNodes, function (aNode) {
+            aNode.target='_blank';
+          });
           tbody.appendChild(node);
         });
       }
