@@ -1,4 +1,4 @@
-const groupid = 648540;//小组id，需要替换
+const groupid = '648540';//小组id，需要替换
 const page = 5;//需要过滤的总页数，可根据需求调整，每页所需时间30秒左右
 
 var filterArticles = [];
